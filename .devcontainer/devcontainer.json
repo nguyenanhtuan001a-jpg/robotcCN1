@@ -1,0 +1,11 @@
+{
+    "name": "MATLAB Codespace",
+    "image": "mathworks/matlab:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mathworks.language-matlab"
+            ]
+        }
+    }
+}
